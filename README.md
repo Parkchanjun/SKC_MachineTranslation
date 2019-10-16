@@ -1,0 +1,2 @@
+# SKC_MachineTranslation
+SKC_MachineTranslation 강의자료
