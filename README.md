@@ -1,2 +1,2 @@
-# MachineTranslation
-MachineTranslation 강의자료
+# SKC MachineTranslation
+SKC MachineTranslation 강의자료
